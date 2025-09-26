@@ -24,27 +24,6 @@ influence the self-assembly behavior of single-patch colloids.
 - **Packing fraction** has limited effect except at higher densities  
 - Large clusters are rare but appear across different parameter regions
 
----
-
-## 📊 Repository Contents
-- `main.pdf` — Full MSc thesis document  
-- `results/figures/` — Snapshots and histograms of cluster distributions  
-- `results/cluster_data/` — Placeholder for exported CSV files of cluster size distributions  
-- `analysis/` — Python scripts for independent re-analysis (to be added)
-
----
-
-## 🔬 Independent Extension
-As an extension to the MSc work, I am developing **Python-based post-processing tools**
-for analyzing the exported cluster data. Planned features include:
-
-- Average cluster size vs patch ratio and packing fraction  
-- Cluster size distribution fits (exponential / power-law)  
-- Phase-map visualization of self-assembly regimes  
-
-All code will be available in `analysis/cluster_analysis.py`.
-
----
 
 ## 📖 Citation
 If you refer to this work, please cite:
